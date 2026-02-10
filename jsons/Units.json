@@ -36,7 +36,7 @@
 	{
 		"name": "Phalanx",
 		"unitType": "Sword",
-		"uniqueTo": "Sumeria",
+		"uniqueTo": "Sumer",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 8,
